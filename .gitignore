@@ -1,3 +1,19 @@
 data/test
 
 data/train
+
+model_0
+model_1
+model_2
+model_3
+
+submit/submit_0.csv
+submit/submit_1.csv
+submit/submit_2.csv
+
+CODE-190103 Data Analysis.ipynb
+CODE-190104 Data Analysis.ipynb
+CODE-190107 Data Analysis.ipynb
+CODE-190109 Data Analysis.ipynb
+CODE-190110 Data Analysis.ipynb
+CODE-190111 Data Analysis.ipynb
