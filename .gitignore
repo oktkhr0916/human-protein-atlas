@@ -2,14 +2,18 @@ data/test
 
 data/train
 
-model_0
-model_1
-model_2
-model_3
+model_0/
+model_1/
+model_2/
+model_3/
 
 submit/submit_0.csv
 submit/submit_1.csv
 submit/submit_2.csv
+
+.ipynb_checkpoints/
+.vscode/
+
 
 CODE-190103 Data Analysis.ipynb
 CODE-190104 Data Analysis.ipynb
